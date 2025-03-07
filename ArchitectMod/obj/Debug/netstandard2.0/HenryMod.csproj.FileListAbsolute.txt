@@ -1,0 +1,10 @@
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\HenryMod.deps.json
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\HenryMod.dll
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\bin\Debug\netstandard2.0\HenryMod.pdb
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.AssemblyReference.cache
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.AssemblyInfoInputs.cache
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.AssemblyInfo.cs
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.CoreCompileInputs.cache
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.dll
+C:\Users\sigma\source\repos\HenryTutorial\HenryMod\obj\Debug\netstandard2.0\HenryMod.pdb
